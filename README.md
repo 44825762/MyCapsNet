@@ -11,7 +11,7 @@
 	2. 胶囊层      
 	3. 数字胶囊层
      
-
+#### Reference: https://arxiv.org/abs/1710.09829
 ---------
 
 Email： 44825762@163.com
